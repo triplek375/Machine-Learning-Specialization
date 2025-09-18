@@ -1,14 +1,15 @@
 # Machine Learning Specialization Coursera
 <hr/>
-## Course 1 : [Supervised Machine Learning: Regression and Classification ]
+## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/advanced-learning-algorithms/home/module/1)
 - Week 1
-    - [Practice quiz: Regression]
-    - [Practice quiz: Supervised vs unsupervised learning]
-    - [Practice quiz: Train the model with gradient descent]
-  - [Optional Labs]
-    - [Model Representation]
-    - [Cost Function]
-    - [Gradient Descent]
+    Practice Quiz
+        [Regression](/C1 - Supervised Machine Learning - Regression and Classification/week1/Practice quiz - Regression/ss1.png)
+        [Supervised vs unsupervised learning]
+        [Train the model with gradient descent]
+    Optional Labs
+        [Model Representation](/C1 - Supervised Machine Learning - Regression and Classification/week1/Optional Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb)
+        [Cost Function]()
+        [Gradient Descent]()
 <br/>
 - [Week 2]
     - [Practice quiz: Gradient descent in practice]
