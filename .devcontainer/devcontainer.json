@@ -1,6 +1,6 @@
 {
   "name": "Machine Learning Specialization Dev Container",
-  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11-bullseye-datascience",
   "features": {},
   "customizations": {
     "vscode": {
